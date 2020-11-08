@@ -6,4 +6,4 @@
 2. Run **run.bat**
 3. In consola **Alice** alege methoda de encryptie **cbc** sau **ofb**
 4. ???
-5. O sa apara fisierul **file.out** scris de bob.py cu continutul specificat
+5. O sa apara fisierul **file.out** scris de **Bob** cu continutul specificat
