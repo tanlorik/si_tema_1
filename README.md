@@ -1,6 +1,6 @@
 # Tema 1
 
-## Instructiuni*
+## Instructiuni
 
 1. Pune contentul care vrei sa fie trimis in **file.in**
 2. Run **run.bat**
