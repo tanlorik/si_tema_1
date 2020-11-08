@@ -114,3 +114,12 @@ def decrypt_ofb(data, key, iv):
 K3 = my_bytes(hashlib.md5("cheia_mea".encode("ascii")).hexdigest())
 IV = my_bytes(hashlib.md5(
     "vector_de_initializare".encode("ascii")).hexdigest())
+
+
+def main():
+
+    pass
+
+
+if __name__ == "__main__":
+    main()
